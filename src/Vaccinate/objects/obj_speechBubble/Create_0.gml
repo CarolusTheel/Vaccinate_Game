@@ -6,3 +6,5 @@ image_index = irandom(12);
 
 image_xscale = .25
 image_yscale = .25
+
+alarm[0] = 90;
