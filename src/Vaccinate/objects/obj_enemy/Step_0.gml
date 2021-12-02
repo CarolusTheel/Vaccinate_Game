@@ -72,7 +72,7 @@ self.insult += delta_time/1000000;
 if(self.insult >= 2)
 {
 	self.insult = 0;
-	if(random(20) < 10)
+	if(random(100) < 10)
 	{
 		speechID = instance_create_layer(x,y-200,"lay_speech",obj_speechbubble);
 	}
