@@ -14,6 +14,7 @@
     {"id":{"name":"obj_instructions","path":"objects/obj_instructions/obj_instructions.yy",},"order":12,},
     {"id":{"name":"spr_enemy_splatter","path":"sprites/spr_enemy_splatter/spr_enemy_splatter.yy",},"order":6,},
     {"id":{"name":"spr_player","path":"sprites/spr_player/spr_player.yy",},"order":7,},
+    {"id":{"name":"rm_credits","path":"rooms/rm_credits/rm_credits.yy",},"order":5,},
     {"id":{"name":"spr_tileset","path":"sprites/spr_tileset/spr_tileset.yy",},"order":8,},
     {"id":{"name":"spr_title","path":"sprites/spr_title/spr_title.yy",},"order":9,},
     {"id":{"name":"scr_Karen_ReduceHitFlash","path":"scripts/scr_Karen_ReduceHitFlash/scr_Karen_ReduceHitFlash.yy",},"order":2,},
@@ -86,6 +87,7 @@
     {"roomId":{"name":"rm_default","path":"rooms/rm_default/rm_default.yy",},},
     {"roomId":{"name":"rm_instructions","path":"rooms/rm_instructions/rm_instructions.yy",},},
     {"roomId":{"name":"rm_Dead","path":"rooms/rm_Dead/rm_Dead.yy",},},
+    {"roomId":{"name":"rm_credits","path":"rooms/rm_credits/rm_credits.yy",},},
   ],
   "Folders": [
     {"folderPath":"folders/Sprites.yy","order":0,"resourceVersion":"1.0","name":"Sprites","tags":[],"resourceType":"GMFolder",},
